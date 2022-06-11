@@ -10,6 +10,7 @@ class SpringSsmpApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("aaa");
     }
 
 }
